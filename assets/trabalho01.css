@@ -1,0 +1,183 @@
+.my-container {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-imagem {
+    background-image: url(imagens/imagem-header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header-logo img {
+    height: 160px;
+    width: 160px;
+}
+
+.my-title {
+    padding: 5px;
+    text-align: center;
+}
+
+#h1-header {
+    padding-top: 30px;
+}
+
+.form1 {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.caixa-texto {
+    margin-right: 10px;
+}
+
+#button {
+    background-color: white;
+    color: rgb(100, 99, 99);
+}
+
+.logo {
+    padding: 5px;
+    text-align: center;
+}
+
+#youtube {
+    width: 60px;
+    height: 60px;
+}
+
+#facebook {
+    width: 52px;
+    height: 52px;
+}
+
+#instagram {
+    width: 60px;
+    height: 60px;
+}
+
+#pinterest {
+    width: 44px;
+    height: 44px;
+}
+
+.icons {
+    padding: 0%;
+    border-radius: 100%;
+}
+
+#cartao {
+    border: 0;
+}
+
+.sessao-2 {
+    text-align: center;
+}
+
+.sessao-2-texto{
+    text-align: center;
+    padding: 2%;
+}
+
+.cartao-1 {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    padding: 3%;
+}
+
+.cartao-2 {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    padding: 3%;
+}
+
+.sessao-3 {
+    align-items: center;
+    border: 1px solid rgb(228, 163, 65);
+    background-color: rgba(247, 152, 10, 0.788);
+    padding: 5%;
+    background-size: cover;
+    
+}
+
+.sessao-3-texto {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.sessao-4 {
+    align-items: center;
+    padding: 5%;
+}
+
+.sessao-4-texto {
+    margin: 5%;
+    text-align: left;
+
+}
+
+.sessao-5 {
+    align-items: center;
+    text-align: center;
+    padding: 5%;
+    background-image: url(imagens/fundo.png);
+    padding: 5%;
+    background-size: cover;
+    border: 1px solid rgb(228, 163, 65);
+}
+
+.sessao-5-texto {
+    padding: 5%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.sessao-5-logo {
+    padding: 5px;
+    text-align: center;
+}
+
+.sessao-5-fotos {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 60px;
+    height: 60px;
+    transition: 0.5s;
+    border: 1px solid black;
+    border-radius: 100%;
+}
+
+.sessao-5-fotos:hover {
+    transform: scale(1.5);
+}
+
+.sessao-6 {
+    padding: 1%;
+    text-align: center;
+}
+
+.form2 {
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.footer {
+    background-color: rgba(247, 152, 10, 0.788);
+    border: 1px solid rgb(228, 163, 65);
+}
+
+.footer-texto {
+    align-items: center;
+    display: flex;
+    text-align: left;
+    margin-left: 250px;
+}
+
+.footer-logo img {
+    height: 60px;
+    width: 60px;
+}
